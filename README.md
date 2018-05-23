@@ -1,6 +1,6 @@
 # try-dequeue
 
-I have tried a lot but have not figured out how to define `q0`.
+I have been trying to use [Dequeue](http://hackage.haskell.org/package/dequeue-0.1.12/docs/Data-Dequeue.html) but I have not figured out how to define `q0`.
 Do you have any ideas?
 
 ```shell
