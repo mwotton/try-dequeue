@@ -6,7 +6,7 @@ import Data.Dequeue as D
 main :: IO ()
 main = do
 
-  let a = D.empty
+  let a = (D.empty :: D.BankersDequeue Char)
   let a' = D.pushFront a 'a'
   let b = D.first a'
   print b
